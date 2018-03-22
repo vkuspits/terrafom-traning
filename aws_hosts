@@ -1,0 +1,5 @@
+[dev]
+floating
+[dev:vars]
+s3code=traning_id
+domain=traning
